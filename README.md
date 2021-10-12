@@ -1,3 +1,3 @@
 # etc
 
-merged old repositories into one repository for reorganization
+<merged old repositories into one repository for reorganization
