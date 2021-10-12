@@ -1,3 +1,3 @@
 # etc
 
-<h3>merged old repositories into one repository for reorganization</h3>
+<h3>merged old git practice repositories into one repository for reorganization</h3>
